@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ potatoct
-- 👀 I’m interested in WordPress, HTML, CSS, and Blender
-- 🌱 I’m currently learning WordPress and Blender
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello there, I’m @ potatoct
+- 👀 I’m interested in C++ & Blender.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on small and simple project for now to gain some experience.
+- 📫 How to reach me cheavrotharin+github@gmail.com
 
 <!---
 potatoct/potatoct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
