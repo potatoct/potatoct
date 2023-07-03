@@ -1,7 +1,7 @@
 - 👋 Hello there, I’m @ potatoct
 - 👀 I’m interested in C++ & Blender.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on small and simple project for now to gain some experience.
+- 💞️ I’m looking to collaborate on small and simple project for now to gain more experience.
 - 📫 How to reach me cheavrotharin+github@gmail.com
 
 <!---
